@@ -9,3 +9,7 @@
 6. The express server will serve 
 7. Verify on sslforfree.com
 8. Download SSL certs
+
+
+
+Once downloaded rename crt and key to pem file
